@@ -1,4 +1,4 @@
-#Descoption for each file
+#Description for each file
 wine.txt:
 Original wine data obtained from http://mlr.cs.umass.edu/ml/machine-learning-databases/wine/wine.data .
 For further information of the data, see http://mlr.cs.umass.edu/ml/datasets/Wine .
